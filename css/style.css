@@ -1,0 +1,60 @@
+
+ul li{
+	display:inline;
+  font-size:18px;
+}
+#b{
+	font-family: 'Baloo Bhaina', cursive;
+}
+#hd{
+	width:100%;
+}
+header{
+ 
+	width:100%;
+	background-color:grey;
+	font-size:40px;
+
+	}
+	header h1{
+     margin-left: 130px;
+     margin-top: 20px;
+	}
+#foo{
+	width:100%;
+		background-color:grey;
+		height:100px;
+		margin-left: 0;
+   font-family: 'Baloo Bhaina', cursive;
+
+	}
+footer a{
+	font-size: 15px;
+	padding-right: 10px;
+}
+body{
+	background-color: silver;
+}
+h1{
+	font-size: 15px;
+	margin-bottom: 50px;
+}
+#cnt1{
+	background-color:#B0A5A3;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Shadows Into Light', cursive;
+
+}
+#fr{
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+#a1{
+	font-size:24px;color:green;
+
+}
+#a2{
+	font-size:24px;color:blue;
+	
+}
